@@ -37,5 +37,3 @@ I'm computer science student @ Northeastern University. I'm passionate about pro
 
 [![](https://visitcount.itsvg.in/api?id=chiahaohsutai&icon=0&color=2)](https://visitcount.itsvg.in)
 
-![shiba-dog](https://user-images.githubusercontent.com/89400862/210697230-6d09a4b6-91e1-4db9-b07c-c9d3c56f5651.gif)
-
