@@ -36,4 +36,3 @@ I'm computer science student @ Northeastern University. I'm passionate about pro
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiahaohsutai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=chiahaohsutai&icon=0&color=2)](https://visitcount.itsvg.in)
-
