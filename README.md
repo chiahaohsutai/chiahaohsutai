@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/89400862/210699611-7fb8077c-084a-4ca4-987a-c1b0cb73b329.png)
 
-I'm computer science student @ Northeastern University. I'm passionate about programming and building applications and my dream is to become a software developer !
+I'm computer science student @ Northeastern University. I'm passionate about building applications and my dream is to become a software developer !
 
 ## 🔧 Technologies & Tools
 
