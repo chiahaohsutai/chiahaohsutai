@@ -17,7 +17,6 @@ Let’s connect, collaborate, and innovate together! 🤝
 
 ### 📊 My stats
 
-<div>
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiahaohsutai&theme=dark&hide_border=false" /><br/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiahaohsutai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8&card_width=320" />
-</div>
+<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiahaohsutai&theme=dark&hide_border=false" />
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiahaohsutai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8&card_width=320" />
