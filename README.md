@@ -17,6 +17,6 @@ Let’s connect, collaborate, and innovate together! 🤝
 
 ### 📊 My stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiahaohsutai&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiahaohsutai&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chiahaohsutai&theme=dark&hide_border=false)<br/>
