@@ -4,8 +4,8 @@ I’m a Machine Learning Engineer at [Manulife Investment Management](https://ww
 
 💻 I’m passionate about writing clean, efficient software and constantly exploring new horizons within tech 🧠✨.
 
-When I’m not building AI solutions, you’ll probably find me:
-- ☕ Sipping coffee over a new tech article
+When I’m not building sotware solutions, you’ll probably find me:
+- ☕ Sipping coffee
 - 📚 Diving into a programming book
 - 🛠️ Experimenting with side projects
 
