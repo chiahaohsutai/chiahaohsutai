@@ -6,7 +6,7 @@ I’m a wannabe 10x engineer, currently struggling through Rust and trying to re
 
 [![My Skills](https://skillicons.dev/icons?i=py,ts,rust,next,fastapi,react,docker,mongo,remix,actix,tailwind,js,java,html,css,mysql,sqlite)](https://skillicons.dev)
 
-### **have and awesome day and happy coding!!**
+### **have an awesome day and happy coding!!**
 
 if your interested here are some readiing recs that I found super helpful:
 - <i>Fluent Python</i> by Luciano Ramalho
