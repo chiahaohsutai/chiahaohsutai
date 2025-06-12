@@ -1,6 +1,6 @@
 ## hi!
 
-I’m a wannabe 10x engineer, currently struggling through Rust and trying to read and code as much as possible. I’m always open to collaborating and learning from more experienced devs. Hopefully, my projects give you a bit of insight into what I’m working toward and what I’m struggling with.
+I’m a wannabe 10x engineer, currently struggling through Rust and trying to read and code as much as possible. I’m always open to collaborating and learning from other devs (and wannabe engineers like me). Hopefully, my projects give you a bit of insight into what I’m working toward and what I’m struggling with.
 
 ### i'm familiar with ...
 
