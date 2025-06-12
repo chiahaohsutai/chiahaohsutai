@@ -8,6 +8,6 @@ I’m a wannabe 10x engineer, currently struggling through Rust and trying to re
 
 ### **have an awesome day and happy coding!!**
 
-if your interested here are some readiing recs that I found super helpful:
+if your interested here are some reading recs that I found super helpful:
 - <i>Fluent Python</i> by Luciano Ramalho
 - <i>Deep Learning with Python</i> by François Chollet
