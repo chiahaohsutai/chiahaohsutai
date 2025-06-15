@@ -4,7 +4,7 @@ I’m a wannabe 10x engineer, currently struggling through Rust and trying to re
 
 **i'm experienced with ...**
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,rust,next,fastapi,react,docker,mongo,remix,actix,tailwind,js,java,html,css,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,rust,ts,js,next,fastapi,react,docker,mongo,remix,actix,tailwind,java,html,css,mysql,sqlite)](https://skillicons.dev)
 
 ### **have an awesome day and happy coding!!**
 
