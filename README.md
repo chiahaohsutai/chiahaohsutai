@@ -1,6 +1,6 @@
 ## hi!
 
-I’m a wannabe 10x engineer, currently struggling through Rust and trying to read and code as much as possible. I’m always open to collaborating and learning from other devs (and wannabe engineers like me). Hopefully, my projects give you a bit of insight into what I’m working toward and what I’m struggling on.
+My name is Chia and I like to code! Please star my repos if you like them!
 
 **i'm experienced with ...**
 
