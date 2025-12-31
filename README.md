@@ -1,4 +1,4 @@
-**Welcome!!**
+## Welcome!!
 
 Hi, I’m Chia — a full-stack engineer. Most of the projects here are learning-driven and focused on understanding how software works at a deeper level, so you’ll see projects that involve rebuilding core software from scratch—compilers, servers, and more.
 
